@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @potatoh-soup
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning python, javascript, C#, C++, and BASIC
+- 💞️ I’m looking to collaborate on automated bots for websites
+- 📫 How to reach me: DM @potatoh_soup on Twitter
